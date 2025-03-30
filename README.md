@@ -17,6 +17,5 @@ Run the following notebooks in order:
 3. DataMining.ipynb
 4. DataVisualization.ipynb
 
-
-
+## Useful Commands
 ![Alt text](Images/cheatsheet.jpg)
